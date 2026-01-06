@@ -37,11 +37,11 @@ Created custom attribute: departmentCode
 This user was provisioned from the simulated HR system (Excel) into both Azure Entra ID and Okta using SCIM-style automation.
 
 Attribute	Value
-First Name	Nafesse
-Last Name	Dulaney
-Department	Finance
-Job Title	Financial Analyst I
-Email	nafessedulaney@outlook.com
+FirstName - Nafesse
+LastName - Dulaney
+Department - Finance
+Job Title - Financial Analyst I
+Email - nafessedulaney@outlook.com
 
 Provisioned into:
 
