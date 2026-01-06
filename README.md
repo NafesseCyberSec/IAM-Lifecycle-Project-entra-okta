@@ -70,15 +70,19 @@ Provisioned into:
 The following screenshot provides a high-leve User Created in Entra IDl view of the Identity and Access Management (IAM) lifecycle flow implemented in this simulation project. It highlights key steps across both Entra ID and Okta:
 
 User Created in Entra ID
+
 <img width="1173" height="612" alt="image" src="https://github.com/user-attachments/assets/edffb357-c09a-495e-8fc5-f799d900cb97" />
 
 Group Assignment + Access
+
 <img width="1144" height="536" alt="image" src="https://github.com/user-attachments/assets/e739a1c2-a9c9-4ff5-bdfe-7ba910c4a834" />
 
 MFA Setup
+
 <img width="1328" height="558" alt="image" src="https://github.com/user-attachments/assets/1db52f5e-78bc-4543-9adc-eedba9562df9" />
 
  SSO Config in Okta
+ 
  <img width="1292" height="597" alt="image" src="https://github.com/user-attachments/assets/6d31e8cd-80d5-4396-be1e-53d59f76f51c" />
 
  Project Structure
