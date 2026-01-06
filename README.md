@@ -89,10 +89,14 @@ MFA Setup
 The repository is organized as follows:
 
 📁 iam-lifecycle-simulation-scim-entra-okta/
+
 ├── README.md                          # Project overview and documentation
+
 ├── user_data.csv                      # Sample input data for identity provisioning
+
 ├── provisioning_steps.md              # Step-by-step notes for SCIM provisioning flow
 ├── screenshots/
+
 │   └── iam-summary.png                # Combined IAM screenshots (Entra ID & Okta)
 
 
