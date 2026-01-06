@@ -63,6 +63,7 @@ Email - nafessedulaney@outlook.com
 Provisioned into:
 
 ✅ Azure Entra ID (MFA enforced, Group: Finance, App access assigned)
+
 ✅ Okta (MFA via Okta Verify, Group: Finance, SSO enabled, Custom Attribute: departmentCode: FIN)
 
  Project Screenshot Overview
